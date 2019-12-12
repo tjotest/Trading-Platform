@@ -1,0 +1,8 @@
+C:\Source\Bunker Holding\Trading-Platform\obj\Debug\netcoreapp2.1\Trading-Platform.csprojAssemblyReference.cache
+C:\Source\Bunker Holding\Trading-Platform\obj\Debug\netcoreapp2.1\Trading-Platform.csproj.CoreCompileInputs.cache
+C:\Source\Bunker Holding\Trading-Platform\obj\Debug\netcoreapp2.1\Trading-Platform.AssemblyInfoInputs.cache
+C:\Source\Bunker Holding\Trading-Platform\obj\Debug\netcoreapp2.1\Trading-Platform.AssemblyInfo.cs
+C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\Trading-Platform.csprojAssemblyReference.cache
+C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\Trading-Platform.csproj.CoreCompileInputs.cache
+C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\Trading-Platform.AssemblyInfoInputs.cache
+C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\Trading-Platform.AssemblyInfo.cs
