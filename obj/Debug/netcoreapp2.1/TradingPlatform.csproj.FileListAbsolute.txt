@@ -1,3 +1,7 @@
+C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.csprojAssemblyReference.cache
+C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.csproj.CoreCompileInputs.cache
+C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.AssemblyInfoInputs.cache
+C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.AssemblyInfo.cs
 C:\Source\Bunker Holding\TradingPlatform\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
 C:\Source\Bunker Holding\TradingPlatform\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
 C:\Source\Bunker Holding\TradingPlatform\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
@@ -7,9 +11,5 @@ C:\Source\Bunker Holding\TradingPlatform\bin\Debug\netcoreapp2.1\TradingPlatform
 C:\Source\Bunker Holding\TradingPlatform\bin\Debug\netcoreapp2.1\TradingPlatform.runtimeconfig.dev.json
 C:\Source\Bunker Holding\TradingPlatform\bin\Debug\netcoreapp2.1\TradingPlatform.dll
 C:\Source\Bunker Holding\TradingPlatform\bin\Debug\netcoreapp2.1\TradingPlatform.pdb
-C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.csprojAssemblyReference.cache
-C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.csproj.CoreCompileInputs.cache
-C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.AssemblyInfoInputs.cache
-C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.AssemblyInfo.cs
 C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.dll
 C:\Source\Bunker Holding\TradingPlatform\obj\Debug\netcoreapp2.1\TradingPlatform.pdb

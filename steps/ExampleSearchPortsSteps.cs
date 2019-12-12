@@ -7,16 +7,16 @@ namespace TradingPlatform.steps
 [Binding]
 public class ExampleSearchPortsSteps
 {
-    [Given(@"precondition")]
-    public void GivenPrecondition(){
+    [Given(@"Trader is on port searchform")]
+    public void GivenTraderSearhOnPortName(){
         Console.WriteLine("Given Some Condition");
     }
-    [When(@"action")]
+    [When(@"Portname is typed and enter is pressed")]
     public void WhenAction(){
         Console.WriteLine("When Some conditions");
     }
  
-    [Then(@"testable outcome")]
+    [Then(@"results matcing the Portname is shown")]
     public void ThenTestableOutcome(){
         Console.WriteLine("Then some outcome");
         Assert.IsTrue(true,"expected true but found false");
