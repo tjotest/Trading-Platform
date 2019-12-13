@@ -1,15 +1,18 @@
 using TechTalk.SpecFlow;
 using System;
 using NUnit.Framework;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+
 
 namespace TradingPlatform.steps
 {
 [Binding]
 public class ExampleSearchPortsSteps
-{
+{   
     [Given(@"Trader is on port searchform")]
     public void GivenTraderSearhOnPortName(){
-        Console.WriteLine("Given Some Condition");
+        
     }
     [When(@"Portname is typed and enter is pressed")]
     public void WhenAction(){
